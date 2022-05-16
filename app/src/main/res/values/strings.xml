@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppRecibos</string>
+    <string name="description_app">\
+        Bienvenido a la App de Recibo de Venta \n
+        by: Edwin Mendoza
+    </string>
+    <string name="nuevo_recibo">Nuevo Recibo</string>
+    <string name="lista_recibo">Lista de Recibos</string>
+    <string name="nombre_cliente">Nombre del Cliente</string>
+    <string name="apellido_cliente">Apellido del Cliente</string>
+    <string name="cedula_cliente">Cédula del Cliente:</string>
+    <string name="razonSocial_emisor">Razón Social del Emisor</string>
+    <string name="N_RIF">N° RIF</string>
+    <string name="codigo_producto">Código</string>
+    <string name="descripcion_producto">Descripción del Producto</string>
+    <string name="precio_producto">Precio</string>
+    <string name="activity_nuevo">Nuevo Recibo</string>
+    <string name="activity_lista">Lista de Recibos</string>
+    <string name="back_pressed">Presione nuevamente para salir</string>
+    <string name="activity_recibo">Recibo de Venta</string>
+    <string name="home">Inicio</string>
+    <string name="eliminar_recibos">Eliminar Historial de Recibos</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="btn_agregarItems">Agregar Producto</string>
+
+    <string-array name="Options_Spinner">
+        <item>J-</item>
+        <item>V-</item>
+        <item>E-</item>
+        <item>G-</item>
+    </string-array>
+</resources>

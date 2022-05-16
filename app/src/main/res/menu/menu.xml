@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:title="@string/nuevo_recibo"
+        android:id="@+id/menu_Nuevo"
+        />
+    <item android:title="@string/lista_recibo"
+        android:id="@+id/menu_Lista"
+        />
+
+</menu>
